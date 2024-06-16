@@ -1,0 +1,1 @@
+import{s as t,y as u,a9 as o,h as s}from"./framework.BN-DpKB1.js";function r(){const e=t(!1),n=o();return n&&u(()=>{e.value=!0},n),e}function c(e){const n=r();return s(()=>(n.value,!!e()))}export{c as u};

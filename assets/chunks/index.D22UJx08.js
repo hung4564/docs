@@ -1,1 +1,0 @@
-import{j as n}from"./configurable.DoS0fK6c.js";import{t as s}from"./index.rxAxMNzT.js";import{h as u}from"./framework.CTGY6mxV.js";function i(t,p){const o=s;return function(...r){return u(()=>t.apply(this,r.map(e=>o(e))))}}const c=i(t=>n.dump(t,{skipInvalid:!0,forceQuotes:!0,condenseFlow:!0,noCompatMode:!0,quotingType:"'"}));export{c as s};
