@@ -1,0 +1,1 @@
+import{aj as t,ak as n}from"./framework.ArdWB6UD.js";function s(o){return t()?(n(o),!0):!1}const a=typeof window<"u"&&typeof document<"u",f=()=>{},p=(o,e)=>(o=Math.ceil(o),e=Math.floor(e),Math.floor(Math.random()*(e-o+1))+o);export{a as i,f as n,p as r,s as t};

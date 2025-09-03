@@ -1,0 +1,1 @@
+import{p as t,v as u,al as o,h as s}from"./framework.ArdWB6UD.js";function r(){const e=t(!1),n=o();return n&&u(()=>{e.value=!0},n),e}function c(e){const n=r();return s(()=>(n.value,!!e()))}export{c as u};

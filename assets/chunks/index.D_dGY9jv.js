@@ -1,0 +1,1 @@
+import{j as n}from"./is.CvtvcIRX.js";import{t as s}from"./index._UC6Waud.js";import{h as u}from"./framework.ArdWB6UD.js";function i(t,p){const o=s;return function(...r){return u(()=>t.apply(this,r.map(e=>o(e))))}}const c=i(t=>n.dump(t,{skipInvalid:!0,forceQuotes:!0,condenseFlow:!0,noCompatMode:!0,quotingType:"'"}));export{c as s};
