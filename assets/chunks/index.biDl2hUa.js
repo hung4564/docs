@@ -1,0 +1,1 @@
+import{d as n}from"./is.I2wkcMRt.js";import{t as u}from"./index.C6vdNVgL.js";import{h as i}from"./framework.WdFb_vN1.js";function p(t,s){const o=u;return function(...r){return i(()=>t.apply(this,r.map(e=>o(e))))}}const c=p(t=>n(t,{skipInvalid:!0,forceQuotes:!0,condenseFlow:!0,noCompatMode:!0,quotingType:"'"}));export{c as s};

@@ -1,0 +1,1 @@
+import{a6 as t,a7 as n}from"./framework.WdFb_vN1.js";function s(o){return t()?(n(o),!0):!1}const a=typeof window<"u"&&typeof document<"u",f=()=>{},p=(o,e)=>(o=Math.ceil(o),e=Math.floor(e),Math.floor(Math.random()*(e-o+1))+o);export{a as i,f as n,p as r,s as t};
